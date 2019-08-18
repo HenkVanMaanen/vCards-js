@@ -12,21 +12,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/enesser/vCards-js.git"
+    "url": "https://github.com/dantrevino/vCards-js.git"
   },
   "keywords": [
     "vCard",
     "vCards",
     "contacts"
   ],
-  "author": "Eric J Nesser",
+  "author": "Dan Trevino",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/enesser/vCards-JS/issues"
+    "url": "https://github.com/dantrevino/vCards-JS/issues"
   },
-  "homepage": "https://github.com/enesser/vCards-JS",
+  "homepage": "https://github.com/dantrevino/vCards-JS",
   "contributors": [
-    "Eric J Nesser <enesser@gmail.com> (https://github.com/enesser)",
+    "Eric J Nesser <dantrevino@gmail.com> (https://github.com/enesser)",
     "Tobias Müller (https://github.com/webdepp)",
     "Julian Krenge (https://github.com/jkrenge)",
     "Charlie Hulcher (https://github.com/c-h-)",
