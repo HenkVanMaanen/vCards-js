@@ -1,5 +1,5 @@
 {
-  "name": "vcards-js",
+  "name": "@dan/vcards",
   "version": "2.10.0",
   "description": "Create vCards to import contacts into Outlook, iOS, Mac OS, Android devices, and more.",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dantrevino/vCards-js.git"
+    "url": "git+https://github.com/dantrevino/vCards-js.git"
   },
   "keywords": [
     "vCard",
@@ -34,5 +34,9 @@
     "Michael Polino (https://github.com/mplno)",
     "sensotix (https://github.com/sensotix)",
     "Randy Stevens (https://github.com/RandyStevens)"
-  ]
+  ],
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
 }
